@@ -1,0 +1,4 @@
+target
+classpath.txt
+*.log
+*.log.*
